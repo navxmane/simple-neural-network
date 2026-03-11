@@ -37,5 +37,5 @@ Após o treinamento de apenas **1 época**, o modelo atingiu os seguintes result
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/navxmane/simple-neural-network-pytorch.git
+   git clone https://github.com/navxmane/simple-neural-network.git
 ```
